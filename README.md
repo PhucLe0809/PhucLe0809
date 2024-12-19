@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lhphuc8904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lhphuc8904" height="30" width="40" /></a>
 <a href="https://fb.com/lhphuc8904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lhphuc8904" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UC0vAFjH97WsSq9ZlUMXgKLg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc0vafjh97wssq9zlumxgklg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lhphuc8904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc0vafjh97wssq9zlumxgklg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/lhphuc.7.01j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lhphuc.7.01j" height="30" width="40" /></a>
 <a href="https://discord.gg/d4Ce9cju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d4Ce9cju" height="30" width="40" /></a>
 </p>
